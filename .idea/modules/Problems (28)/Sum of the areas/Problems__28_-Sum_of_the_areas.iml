@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Problems__28_-Sum_of_the_areas" external.linked.project.path="$MODULE_DIR$/../../../../Problems (28)/Sum of the areas" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Contacts" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Problems (28)/Sum of the areas">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems (28)/Sum of the areas/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems (28)/Sum of the areas/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems (28)/Sum of the areas/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

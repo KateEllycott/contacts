@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Problems__10_-Find_all_mondays" external.linked.project.path="$MODULE_DIR$/../../../../Problems (10)/Find all mondays" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Contacts" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Problems (10)/Find all mondays">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems (10)/Find all mondays/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems (10)/Find all mondays/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems (10)/Find all mondays/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

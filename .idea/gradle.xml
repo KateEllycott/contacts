@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Contacts/task" />
+            <option value="$PROJECT_DIR$/Problems (1)/The first and the last day of a month" />
+            <option value="$PROJECT_DIR$/Problems (10)/Find all mondays" />
+            <option value="$PROJECT_DIR$/Problems (11)/Print dates of a year with an offset" />
+            <option value="$PROJECT_DIR$/Problems (12)/Convert numbers to days" />
+            <option value="$PROJECT_DIR$/Problems (13)/Some hours and minutes ago" />
+            <option value="$PROJECT_DIR$/Problems (14)/Return time without seconds" />
+            <option value="$PROJECT_DIR$/Problems (15)/Seconds between two time points" />
+            <option value="$PROJECT_DIR$/Problems (16)/Seconds since start of a day" />
+            <option value="$PROJECT_DIR$/Problems (17)/Add days and subtract hours" />
+            <option value="$PROJECT_DIR$/Problems (18)/Merging date-time instances" />
+            <option value="$PROJECT_DIR$/Problems (19)/Adding N minutes" />
+            <option value="$PROJECT_DIR$/Problems (2)/The n-th day from the end of a month" />
+            <option value="$PROJECT_DIR$/Problems (20)/Adding N minutes" />
+            <option value="$PROJECT_DIR$/Problems (21)/Whole hours between two date-time pairs" />
+            <option value="$PROJECT_DIR$/Problems (22)/Whole hours between two date-time pairs" />
+            <option value="$PROJECT_DIR$/Problems (23)/Add 11 hours and print the date" />
+            <option value="$PROJECT_DIR$/Problems (24)/Subtracting hours and adding minutes" />
+            <option value="$PROJECT_DIR$/Problems (25)/The passed hours since the beginning of year" />
+            <option value="$PROJECT_DIR$/Problems (26)/Who is who" />
+            <option value="$PROJECT_DIR$/Problems (27)/Sort out the classes" />
+            <option value="$PROJECT_DIR$/Problems (28)/Sum of the areas" />
+            <option value="$PROJECT_DIR$/Problems (29)/Counting 2D shapes" />
+            <option value="$PROJECT_DIR$/Problems (3)/10 days before" />
+            <option value="$PROJECT_DIR$/Problems (30)/Stock Broker" />
+            <option value="$PROJECT_DIR$/Problems (31)/Stock Broker" />
+            <option value="$PROJECT_DIR$/Problems (32)/Stock Broker" />
+            <option value="$PROJECT_DIR$/Problems (33)/Remote Controller" />
+            <option value="$PROJECT_DIR$/Problems (34)/Undo command" />
+            <option value="$PROJECT_DIR$/Problems (35)/Undo command" />
+            <option value="$PROJECT_DIR$/Problems (36)/Forex Broker" />
+            <option value="$PROJECT_DIR$/Problems (37)/Laptop factory" />
+            <option value="$PROJECT_DIR$/Problems (38)/Burgers" />
+            <option value="$PROJECT_DIR$/Problems (39)/Phone factory" />
+            <option value="$PROJECT_DIR$/Problems (4)/2 weeks after" />
+            <option value="$PROJECT_DIR$/Problems (40)/Convert to byte array" />
+            <option value="$PROJECT_DIR$/Problems (5)/30 years before and after" />
+            <option value="$PROJECT_DIR$/Problems (6)/The last day of a month" />
+            <option value="$PROJECT_DIR$/Problems (7)/The first day of a month or not" />
+            <option value="$PROJECT_DIR$/Problems (8)/The first day of a month or not" />
+            <option value="$PROJECT_DIR$/Problems (9)/Find all mondays" />
+            <option value="$PROJECT_DIR$/Problems/Getting information on a day" />
+            <option value="$PROJECT_DIR$/Problems/The first and the last day of a month" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

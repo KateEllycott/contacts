@@ -1,0 +1,1315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7741390f-939c-439c-a4fb-1d0ee28dc05d" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/Contacts/task/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Contacts/task/build/" />
+    <ignored path="$PROJECT_DIR$/Contacts/task/out/" />
+    <ignored path="$PROJECT_DIR$/util/.gradle/" />
+    <ignored path="$PROJECT_DIR$/util/build/" />
+    <ignored path="$PROJECT_DIR$/util/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Getting information on a day/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Getting information on a day/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Getting information on a day/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/The first and the last day of a month/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/The first and the last day of a month/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/The first and the last day of a month/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (1)/The first and the last day of a month/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (1)/The first and the last day of a month/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (1)/The first and the last day of a month/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (2)/The n-th day from the end of a month/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (2)/The n-th day from the end of a month/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (2)/The n-th day from the end of a month/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (3)/10 days before/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (3)/10 days before/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (3)/10 days before/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (4)/2 weeks after/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (4)/2 weeks after/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (4)/2 weeks after/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (5)/30 years before and after/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (5)/30 years before and after/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (5)/30 years before and after/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (6)/The last day of a month/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (6)/The last day of a month/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (6)/The last day of a month/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (7)/The first day of a month or not/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (7)/The first day of a month or not/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (7)/The first day of a month or not/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (8)/The first day of a month or not/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (8)/The first day of a month or not/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (8)/The first day of a month or not/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (9)/Find all mondays/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (9)/Find all mondays/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (9)/Find all mondays/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (10)/Find all mondays/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (10)/Find all mondays/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (10)/Find all mondays/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (11)/Print dates of a year with an offset/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (11)/Print dates of a year with an offset/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (11)/Print dates of a year with an offset/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (12)/Convert numbers to days/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (12)/Convert numbers to days/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (12)/Convert numbers to days/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (13)/Some hours and minutes ago/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (13)/Some hours and minutes ago/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (13)/Some hours and minutes ago/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (14)/Return time without seconds/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (14)/Return time without seconds/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (14)/Return time without seconds/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (15)/Seconds between two time points/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (15)/Seconds between two time points/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (15)/Seconds between two time points/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (16)/Seconds since start of a day/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (16)/Seconds since start of a day/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (16)/Seconds since start of a day/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (17)/Add days and subtract hours/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (17)/Add days and subtract hours/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (17)/Add days and subtract hours/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (18)/Merging date-time instances/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (18)/Merging date-time instances/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (18)/Merging date-time instances/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (19)/Adding N minutes/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (19)/Adding N minutes/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (19)/Adding N minutes/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (20)/Adding N minutes/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (20)/Adding N minutes/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (20)/Adding N minutes/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (21)/Whole hours between two date-time pairs/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (21)/Whole hours between two date-time pairs/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (21)/Whole hours between two date-time pairs/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (22)/Whole hours between two date-time pairs/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (22)/Whole hours between two date-time pairs/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (22)/Whole hours between two date-time pairs/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (23)/Add 11 hours and print the date/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (23)/Add 11 hours and print the date/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (23)/Add 11 hours and print the date/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (24)/Subtracting hours and adding minutes/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (24)/Subtracting hours and adding minutes/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (24)/Subtracting hours and adding minutes/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (25)/The passed hours since the beginning of year/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (25)/The passed hours since the beginning of year/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (25)/The passed hours since the beginning of year/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (26)/Who is who/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (26)/Who is who/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (26)/Who is who/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (27)/Sort out the classes/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (27)/Sort out the classes/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (27)/Sort out the classes/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (28)/Sum of the areas/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (28)/Sum of the areas/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (28)/Sum of the areas/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (29)/Counting 2D shapes/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (29)/Counting 2D shapes/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (29)/Counting 2D shapes/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (30)/Stock Broker/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (30)/Stock Broker/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (30)/Stock Broker/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (31)/Stock Broker/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (31)/Stock Broker/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (31)/Stock Broker/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (32)/Stock Broker/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (32)/Stock Broker/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (32)/Stock Broker/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (33)/Remote Controller/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (33)/Remote Controller/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (33)/Remote Controller/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (34)/Undo command/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (34)/Undo command/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (34)/Undo command/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (35)/Undo command/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (35)/Undo command/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (35)/Undo command/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (36)/Forex Broker/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (36)/Forex Broker/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (36)/Forex Broker/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (37)/Laptop factory/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (37)/Laptop factory/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (37)/Laptop factory/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (38)/Burgers/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (38)/Burgers/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (38)/Burgers/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (39)/Phone factory/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (39)/Phone factory/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (39)/Phone factory/out/" />
+    <ignored path="$PROJECT_DIR$/Problems (40)/Convert to byte array/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems (40)/Convert to byte array/build/" />
+    <ignored path="$PROJECT_DIR$/Problems (40)/Convert to byte array/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Contacts" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Contacts" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts/Main.java">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="-575">
+                  <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+                  <folding>
+                    <element signature="e#2112#2113#0" expanded="true" />
+                    <element signature="e#2153#2154#0" expanded="true" />
+                    <element signature="e#2213#2214#0" expanded="true" />
+                    <element signature="e#2254#2255#0" expanded="true" />
+                  </folding>
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts/commands/AddContact.java">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="425">
+                  <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts/commands/Command.java">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="182">
+                  <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts/commands/CommandManager.java">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="34">
+                  <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts/commands/EditContact.java">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="255">
+                  <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts/commands/RemoveContact.java">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="255">
+                  <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts/ContactBook.java">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="162">
+                  <caret line="52" column="56" selection-start-line="52" selection-start-column="56" selection-end-line="52" selection-end-column="56" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts/commands/SearchContact.java">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="275">
+                  <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#1584#1585#0" expanded="true" />
+                    <element signature="e#1614#1615#0" expanded="true" />
+                  </folding>
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>VALID</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Contacts/task/src/contacts/contacts/Main.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/contacts/contacts1/Main.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/commands/AddContact.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/commands/Command.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/commands/CommandManager.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/commands/EditContact.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/commands/RemoveContact.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/commands/ShowContact.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/commands/SearchContact.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/InvalidInputException.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/managers/ContactManagerFactory.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/managers/OrganizationContactManager.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/managers/PersonContactManager.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/managers/ContactManager.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/Contact1.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/AddContact.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/CommandManager.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/ContactFactory.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/ContactManager.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/ContactManagerFactory.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/EditContact.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/Main.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/OrganizationContact.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/OrganizationContactManager.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/PersonContact.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/PersonContactManager.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/RemoveContact.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/SearchContact.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/ShowContact.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/Contact.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/ContactBook.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/Command.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/contacts/Command.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/contacts/SearchContact.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/contacts/Contact.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/contacts/PersonContactManager.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/contacts/AddContact.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/contacts/ShowContact.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/contacts/records/PersonContact.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/contacts/commands/Command.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/contacts/ContactBook.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/contacts/commands/ShowContact.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/contacts/commands/AddContact.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/contacts/records/OrganizationContact.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/contacts/records/managers/PersonContactManager.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/contacts/records/managers/OrganizationContactManager.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/contacts/records/Contact.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/contacts/Main.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/contacts/commands/EditContact.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/contacts/commands/RemoveContact.java" />
+        <option value="$PROJECT_DIR$/Contacts/task/src/contacts/commands/SearchContact.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="174" />
+    <option name="y" value="104" />
+    <option name="width" value="882" />
+    <option name="height" value="475" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Course" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Course">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Contacts" type="a264ea2a:RootNode" />
+              <item name="Contacts" type="ed842865:CourseNode" />
+            </path>
+            <path>
+              <item name="Contacts" type="a264ea2a:RootNode" />
+              <item name="Contacts" type="ed842865:CourseNode" />
+              <item name="src" type="a27419f0:FrameworkLessonNode" />
+            </path>
+            <path>
+              <item name="Contacts" type="a264ea2a:RootNode" />
+              <item name="Contacts" type="ed842865:CourseNode" />
+              <item name="src" type="a27419f0:FrameworkLessonNode" />
+              <item name="contacts" type="61faebc3:DirectoryNode" />
+            </path>
+            <path>
+              <item name="Contacts" type="a264ea2a:RootNode" />
+              <item name="Contacts" type="ed842865:CourseNode" />
+              <item name="src" type="a27419f0:FrameworkLessonNode" />
+              <item name="contacts" type="61faebc3:DirectoryNode" />
+              <item name="commands" type="61faebc3:DirectoryNode" />
+            </path>
+            <path>
+              <item name="Contacts" type="a264ea2a:RootNode" />
+              <item name="Contacts" type="ed842865:CourseNode" />
+              <item name="src" type="a27419f0:FrameworkLessonNode" />
+              <item name="contacts" type="61faebc3:DirectoryNode" />
+              <item name="records" type="61faebc3:DirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Contacts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Contacts" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Contacts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Contacts" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Contacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Contacts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Contacts" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Contacts" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Contacts/task/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\workspace\Contacts\Contacts\task\src" />
+      <recent name="C:\dev\workspace\Contacts\Contacts\task\src\contacts" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="contacts.contacts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\workspace\Contacts\Contacts\task\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="contacts.App" />
+      <module name="Contacts-task_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="contacts.validator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems__10_-Find_all_mondays_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="contacts.Main" />
+      <module name="Contacts-task_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="contacts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems__9_-Find_all_mondays_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="contacts.Main" />
+      <module name="Contacts-task_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="contacts.records.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="contacts1.Main" />
+      <module name="Contacts-task_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="contacts1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="contacts.contacts1.Main" />
+      <module name="Contacts-task_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="contacts.contacts1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="contacts.Main" />
+      <module name="Contacts-task_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="contacts.validator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7741390f-939c-439c-a4fb-1d0ee28dc05d" name="Default Changelist" comment="" />
+      <created>1591675715045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591675715045</updated>
+      <workItem from="1591675717768" duration="3041000" />
+      <workItem from="1591694292819" duration="2163000" />
+      <workItem from="1591719614602" duration="3636000" />
+      <workItem from="1591760475088" duration="3616000" />
+      <workItem from="1591811687582" duration="6027000" />
+      <workItem from="1591847619764" duration="4075000" />
+      <workItem from="1591864565233" duration="37000" />
+      <workItem from="1591941857432" duration="5414000" />
+      <workItem from="1592048210466" duration="4438000" />
+      <workItem from="1592067851436" duration="3625000" />
+      <workItem from="1592127252391" duration="5080000" />
+      <workItem from="1592154101073" duration="3086000" />
+      <workItem from="1592192183998" duration="3062000" />
+      <workItem from="1592212087803" duration="7461000" />
+      <workItem from="1592300654858" duration="569000" />
+      <workItem from="1592365516005" duration="4318000" />
+      <workItem from="1592452040403" duration="13523000" />
+      <workItem from="1592542984609" duration="6537000" />
+      <workItem from="1592580870630" duration="1108000" />
+      <workItem from="1592627456215" duration="7509000" />
+      <workItem from="1592668699189" duration="6463000" />
+      <workItem from="1592722192024" duration="1852000" />
+      <workItem from="1592754021587" duration="5643000" />
+      <workItem from="1592817260675" duration="770000" />
+      <workItem from="1592827671631" duration="4934000" />
+      <workItem from="1592883426789" duration="9969000" />
+      <workItem from="1592979832099" duration="580000" />
+      <workItem from="1593056711644" duration="3923000" />
+      <workItem from="1593145476858" duration="3421000" />
+      <workItem from="1593162725837" duration="786000" />
+      <workItem from="1593163894166" duration="11091000" />
+      <workItem from="1593234259153" duration="7925000" />
+      <workItem from="1593277960176" duration="877000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Tests_in_'Contacts-task_test' - 2020.06.27 at 11h 23m 59s.xml">
+      <configuration name="Tests in 'Contacts-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Contacts-task_test' - 2020.06.27 at 11h 26m 08s.xml">
+      <configuration name="Tests in 'Contacts-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Contacts-task_test' - 2020.06.27 at 21h 17m 31s.xml">
+      <configuration name="Tests in 'Contacts-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Contacts-task_test' - 2020.06.27 at 21h 18m 46s.xml">
+      <configuration name="Tests in 'Contacts-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Contacts-task_test' - 2020.06.27 at 21h 21m 41s.xml">
+      <configuration name="Tests in 'Contacts-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Contacts-task_test' - 2020.06.27 at 21h 23m 46s.xml">
+      <configuration name="Tests in 'Contacts-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Contacts-task_test' - 2020.06.27 at 21h 25m 00s.xml">
+      <configuration name="Tests in 'Contacts-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Contacts-task_test' - 2020.06.27 at 21h 25m 01s.xml">
+      <configuration name="Tests in 'Contacts-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Contacts-task_test' - 2020.06.27 at 21h 26m 35s.xml">
+      <configuration name="Tests in 'Contacts-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Contacts-task_test' - 2020.06.27 at 21h 28m 08s.xml">
+      <configuration name="Tests in 'Contacts-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="146559000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8606403" visible="true" weight="0.33207262" />
+      <window_info id="Structure" order="1" sideWeight="0.1393597" side_tool="true" weight="0.3214826" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.50121653" side_tool="true" weight="0.2677761" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.13235295" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32843137" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32843137" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="11" weight="0.32843137" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32843137" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
+      <window_info active="true" anchor="right" id="Task" order="4" visible="true" weight="0.15885022" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8606403" visible="true" weight="0.3214826" />
+      <window_info id="Structure" order="1" sideWeight="0.1393597" side_tool="true" visible="true" weight="0.3214826" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.50121653" side_tool="true" weight="0.2677761" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.13235295" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32843137" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32843137" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="11" weight="0.32843137" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32843137" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Task" order="4" visible="true" weight="0.022692889" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems (37)/Laptop factory/src/Main.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems (37)/Laptop factory/src/Main.java</url>
+          <line>157</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems (37)/Laptop factory/src/Main.java</url>
+          <line>164</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems (38)/Burgers/src/Main.java</url>
+          <line>101</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Contacts/task/src/contacts1/contacts/OrganizationContact.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Contacts/task/src/contacts1/contacts/OrganizationContact.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Contacts/task/src/contacts/records/PersonContact.java</url>
+          <line>115</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Contacts/task/src/contacts/records/Contact.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts1/contacts/OrganizationContact.java" />
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts1/contacts/PersonContact.java" />
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts1/ContactBook.java" />
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts1/commands/EditContact.java" />
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts1/commands/ShowContact.java" />
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts1/commands/AddContact.java" />
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts1/commands/SearchContact.java" />
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts1/Main.java" />
+    <entry file="file://$PROJECT_DIR$/Problems (13)/Some hours and minutes ago/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems (14)/Return time without seconds/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts/First contact/task-remote-info.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts/Searching/task.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts/Searching/task-info.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts/Searching/task-remote-info.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts/lesson-info.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts/First contact/task-info.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts/First contact/task.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts/task/test/ContactsTest.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/commands/AddContact.java" />
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/commands/CommandManager.java" />
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/commands/EditContact.java" />
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/commands/RemoveContact.java" />
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/commands/SearchContact.java" />
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/commands/ShowContact.java" />
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/PersonContactFactory.java" />
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/managers/ContactManagerFactory.java" />
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/managers/OrganizationContactManager.java" />
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/managers/PersonContactManager.java" />
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/Contact1.java" />
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/managers/ContactManager.java" />
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/commands/Command.java" />
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/Contact.java" />
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/Command.java" />
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts/records/managers/ContactManagerFactory.java">
+      <provider editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts/InvalidInputException.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts/records/ContactFactory.java">
+      <provider editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="68">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts/records/OrganizationContact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="method#OrganizationContact#0;class#OrganizationContact#0" />
+            <element signature="method#setOrganizationName#0;class#OrganizationContact#0" />
+            <element signature="method#setAddress#0;class#OrganizationContact#0" />
+            <element signature="method#toString#0;class#OrganizationContact#0" />
+            <element signature="class#_OrganizationContactBuilder#0;class#OrganizationContact#0" />
+            <element signature="method#_OrganizationContactBuilder#0;class#_OrganizationContactBuilder#0;class#OrganizationContact#0" />
+            <element signature="method#setPhoneNumber#0;class#_OrganizationContactBuilder#0;class#OrganizationContact#0" />
+            <element signature="method#getFieldValue#0;class#OrganizationContact#0" />
+            <element signature="e#3002#3003#0" expanded="true" />
+            <element signature="e#3031#3032#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="465">
+              <caret line="110" selection-start-line="110" selection-end-line="110" />
+              <folding>
+                <element signature="method#OrganizationContact#0;class#OrganizationContact#0" />
+                <element signature="method#setOrganizationName#0;class#OrganizationContact#0" />
+                <element signature="method#setAddress#0;class#OrganizationContact#0" />
+                <element signature="method#toString#0;class#OrganizationContact#0" />
+                <element signature="class#_OrganizationContactBuilder#0;class#OrganizationContact#0" />
+                <element signature="method#_OrganizationContactBuilder#0;class#_OrganizationContactBuilder#0;class#OrganizationContact#0" />
+                <element signature="method#setPhoneNumber#0;class#_OrganizationContactBuilder#0;class#OrganizationContact#0" />
+                <element signature="method#getFieldValue#0;class#OrganizationContact#0" />
+                <element signature="e#3002#3003#0" expanded="true" />
+                <element signature="e#3031#3032#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts/records/managers/ContactManager.java">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="295">
+              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts/commands/ShowContact.java">
+      <provider editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="17">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+              <folding>
+                <element signature="e#1093#1094#0" expanded="true" />
+                <element signature="e#1121#1122#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#1093#1094#0" expanded="true" />
+            <element signature="e#1121#1122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts/records/managers/PersonContactManager.java">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="275">
+              <caret line="95" column="8" lean-forward="true" selection-start-line="95" selection-start-column="8" selection-end-line="95" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts/records/managers/OrganizationContactManager.java">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="442">
+              <caret line="55" column="50" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts/records/PersonContact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#ContactBuilder#0;class#PersonContact#0" />
+            <element signature="method#isValidDate#0;class#PersonContact#0" />
+            <element signature="method#getFieldValue#0;class#PersonContact#0" />
+            <element signature="e#4379#4380#0" expanded="true" />
+            <element signature="e#4408#4409#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="483">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="class#ContactBuilder#0;class#PersonContact#0" />
+                <element signature="method#isValidDate#0;class#PersonContact#0" />
+                <element signature="method#getFieldValue#0;class#PersonContact#0" />
+                <element signature="e#4379#4380#0" expanded="true" />
+                <element signature="e#4408#4409#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts/records/Contact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Contact#0;class#Contact#0" />
+            <element signature="method#setPhoneNumber#0;class#Contact#0" />
+            <element signature="method#setLastModified#0;class#Contact#0" />
+            <element signature="e#1808#1809#0" expanded="true" />
+            <element signature="e#1865#1866#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="238">
+              <caret line="48" column="58" selection-start-line="48" selection-start-column="58" selection-end-line="48" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#Contact#0;class#Contact#0" />
+                <element signature="method#setPhoneNumber#0;class#Contact#0" />
+                <element signature="method#setLastModified#0;class#Contact#0" />
+                <element signature="e#1808#1809#0" expanded="true" />
+                <element signature="e#1865#1866#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts/ContactBook.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="162">
+              <caret line="52" column="56" selection-start-line="52" selection-start-column="56" selection-end-line="52" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts/commands/AddContact.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="425">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts/commands/Command.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="182">
+              <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts/commands/CommandManager.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts/commands/EditContact.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="255">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts/commands/RemoveContact.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="255">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="-575">
+              <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+              <folding>
+                <element signature="e#2112#2113#0" expanded="true" />
+                <element signature="e#2153#2154#0" expanded="true" />
+                <element signature="e#2213#2214#0" expanded="true" />
+                <element signature="e#2254#2255#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#2112#2113#0" expanded="true" />
+            <element signature="e#2153#2154#0" expanded="true" />
+            <element signature="e#2213#2214#0" expanded="true" />
+            <element signature="e#2254#2255#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts/task/src/contacts/commands/SearchContact.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="275">
+              <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1584#1585#0" expanded="true" />
+                <element signature="e#1614#1615#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Contacts-task_main|Contacts-task|Contacts</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

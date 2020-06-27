@@ -1,0 +1,24 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Sort {
+        public static void sortShapes(Shape[] array,
+                                      List<Shape> shapes,
+                                      List<Polygon> polygons,
+                                      List<Square> squares,
+                                      List<Circle> circles) {
+            // write your code here
+        }
+    }
+
+    //Don't change classes below
+    class Shape { }
+    class Polygon extends Shape { }
+    class Square extends Polygon { }
+    class Circle extends Shape { }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4340
+status: Solved
+record: -1
